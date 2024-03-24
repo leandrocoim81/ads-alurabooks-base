@@ -11,7 +11,7 @@ export default
 
 interface AbBotaoProps
 {
-    tipo?: 'primario' | 'secundario' | 'teste'
+    tipo?: 'primario' | 'secundario'
     texto?: string
     onClick?: () => void
 }
