@@ -23,7 +23,7 @@ export const Primario = Template.bind({})
 Primario.args =
 {
     tipo: 'primario',
-    texto: 'AbBotao Primário'
+    texto: 'AbBotao Primário '
 } as AbBotaoProps
 
 export const Secundario = Template.bind({})
@@ -31,5 +31,5 @@ export const Secundario = Template.bind({})
 Secundario.args =
 {
     tipo: 'secundario', 
-    texto: 'AbBotao Secundario'
+    texto: 'AbBotao Secundario '
 } as AbBotaoProps
